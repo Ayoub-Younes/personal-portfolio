@@ -122,7 +122,7 @@ export const projects = {
         {
             projectName:"Multiplayer Pokeball Collection Game",
             img:"imgs/real-time-multiplayer-game.webp",
-            link:"https://ayoub-younes-real-time-multiplayer-game.glitch.me/",
+            link:"https://real-time-multiplayer-game-4g5t.onrender.com",
             git:"https://github.com/Ayoub-Younes/secure-real-time-multiplayer-game",
             descrption:"This project is a multiplayer game where players compete to collect Pokéballs. The objective is to reach a score of 50 before other players. Players move around the game environment, collecting Pokéballs . The first player to reach a score of 50 wins the game!",
             tech:"HTML5 | CSS | Node.js | Canvas API"
@@ -140,7 +140,7 @@ export const projects = {
         {
             projectName:"Timestamp",
             img:"imgs/timestamp.webp",
-            link:"https://ayoub-younes-timestamp.glitch.me",
+            link:"https://timestamp-microservice-vlb3.onrender.com/",
             git:"https://github.com/Ayoub-Younes/timestamp-microservice",
             descrption:"The Timestamp Microservice allows users to input either a date string or a Unix timestamp via a URL. The service responds with a JSON object that includes the corresponding Unix time and UTC format.",
             tech:"HTML5 | CSS | JavaScript | Node.js | Express.js"
@@ -148,15 +148,15 @@ export const projects = {
         {
             projectName:"Request Header Parser",
             img:"imgs/headerparser.webp",
-            link:"https://ayoub-younes-headerparser.glitch.me",
-            git:"https://timestamp-microservice-vlb3.onrender.com",
+            link:"https://headerparser-microservice-5t9w.onrender.com",
+            git:"https://github.com/Ayoub-Younes/headerparser-microservice",
             descrption:"The Request Header Parser Microservice allows users to retrieve their IP address, preferred language, and operating system by making a request to the /api/whoami endpoint.",
             tech:"HTML5 | CSS | JavaScript | Node.js | Express.js"
         },
         {
             projectName:"URL Shortener",
             img:"imgs/url-shortener.webp",
-            link:"https://ayoub-younes-url-shortener.glitch.me",
+            link:"https://url-shortener-microservice-1-7ej8.onrender.com",
             git:"https://github.com/Ayoub-Younes/url-shortener-microservice",
             descrption:"The URL Shortener Microservice provides an API where users can submit a long URL, and in return, they receive a short URL that is associated with it. Users can then use the short URL to be redirected to the original website.",
             tech:"HTML5 | CSS | JavaScript | Node.js | Express.js"
@@ -164,7 +164,7 @@ export const projects = {
         {
             projectName:"Exercise Tracker",
             img:"imgs/exercise-tracker.webp",
-            link:"https://ayoub-younes-exercise-tracker.glitch.me/",
+            link:"https://exercise-tracker-u766.onrender.com/",
             git:"https://github.com/Ayoub-Younes/exercise-tracker",
             descrption:"The Exercise Tracker Microservice lets users create profiles and log workouts with descriptions, durations, and optional dates. It helps track exercise history efficiently, using a backend built with Express.js and MongoDB.",
             tech:"HTML5 | CSS | JavaScript | Node.js | Express.js | MongoDB"
@@ -172,7 +172,7 @@ export const projects = {
         {
             projectName:"File Metadata",
             img:"imgs/file-metadata.webp",
-            link:"https://ayoub-younes-file-metadata.glitch.me/",
+            link:"https://file-metadata-jqro.onrender.com",
             git:"https://github.com/Ayoub-Younes/file-metadata",
             descrption:"The File Metadata Microservice lets users upload files up to 10MB and returns their metadata. It blocks harmful file types like .exe and .zip, showcasing basic file handling and metadata extraction through a simple, secure API service.",
             tech:"HTML5 | CSS | JavaScript | Node.js | Express.js"
@@ -180,7 +180,7 @@ export const projects = {
         {
             projectName:"Nasdaq Stock Price Checker",
             img:"imgs/stock-price-checker.webp",
-            link:"https://ayoub-younes-stock-price-checker.glitch.me/",
+            link:"https://stock-price-checker-almr.onrender.com",
             git:"https://github.com/Ayoub-Younes/stock-price-checker",
             descrption:"The Stock Price Checker Microservice lets users fetch current Nasdaq stock prices via input or API. Users can like stocks, with likes tracked by IP, providing basic stock info and simple user interaction.",
             tech:"HTML5 | CSS | JavaScript | Node.js | Express.js"
@@ -188,7 +188,7 @@ export const projects = {
         {
             projectName:"Anonymous Message Board",
             img:"imgs/message-board.webp",
-            link:"https://ayoub-younes-message-board.glitch.me/",
+            link:"https://message-board-rmi3.onrender.com",
             git:"https://github.com/Ayoub-Younes/message-board",
             descrption:"The Anonymous Message Board allows users to post, reply, and delete messages using a password, all without revealing identity. It showcases full-stack development with front-end forms, secure storage, and basic authentication for managing user content.",
             tech:"HTML5 | CSS | Node.js | MongoDB | Helmet"
