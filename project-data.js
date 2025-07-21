@@ -30,7 +30,7 @@ export const projects = {
             img:"imgs/tribute.webp",
             git:"https://github.com/Ayoub-Younes/tribute-page",
             link:"https://ayoub-younes.github.io/tribute-page",
-            descrption:"The Tribute Page is designed to showcase information about a fictional company called Spectrum. The page includes an image, a caption, a brief description, and a link to the company's official website.",
+            descrption:"The Nikola Tesla Tribute Page honors the life and inventions of Tesla through a responsive layout featuring key life events, images, notable achievements, and external links, all styled with clean, modern HTML and CSS.",
             tech:"HTML5, CSS"
         },
 
