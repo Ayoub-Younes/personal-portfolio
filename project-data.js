@@ -46,8 +46,8 @@ export const projects = {
         {
             projectName:"Roman Numeral Converter",
             img:"imgs/roman-numeral-converter.webp",
-            git:"https://github.com/Ayoub-Younes/a-roman-numeral-converter",
-            link:"https://ayoub-younes.github.io/a-roman-numeral-converter",
+            git:"https://github.com/Ayoub-Younes/roman-numeral-converter",
+            link:"https://ayoub-younes.github.io/roman-numeral-converter",
             descrption:"The Roman Numeral Converter allows users to input numbers from 1 to 3999 and converts them to Roman numerals, featuring a stylish design, background images, custom fonts, and accurate client-side validation.",
             tech:"HTML5 | CSS | JavaScript"
         },

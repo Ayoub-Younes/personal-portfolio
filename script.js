@@ -136,7 +136,7 @@ const imageLoad = () => {
     // Remove the fade-in class after animation completes
     setTimeout(() => {
     porjectsList.forEach(div => div.classList.remove("fade-in"));
-    }, 500); // Duration of the animation
+    }, 1000); // Duration of the animation
 
     // Function to check if all images are loaded
     function checkAllImagesLoaded() {
@@ -162,7 +162,7 @@ const imageLoad = () => {
         // Fallback in case the images take too long or fail to load
         setTimeout(function() {
         showContent();  // Show content after the timeout, regardless of images loaded
-        }, 100);
+        }, 500);
 
 }
 
